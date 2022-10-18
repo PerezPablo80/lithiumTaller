@@ -56,5 +56,5 @@ function sortedSq(arr) {
 	}
 	return res;
 }
-// console.log(sortedSq([1, 2, 3, 5, 6, 8, 9]));
+console.log(sortedSq([1, 2, 3, 5, 6, 8, 9]));
 // console.log(checkString("55332"));
